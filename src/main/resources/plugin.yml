@@ -1,0 +1,5 @@
+name: WalkThroughLeaves
+version: '${project.version}'
+main: me.rixve.walkthroughleaves.WalkThroughLeaves
+api-version: 1.19
+authors: [ rixVe ]
